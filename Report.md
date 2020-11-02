@@ -17,5 +17,8 @@
 
 ---
 #### Тестирование производилось в следующем окружении:
-* OS: Windows 7 Professional, Service pack 1, 64-bit
-* Java version: OpenJDK 11.0.9
+**OS**: Windows 10 Домашняя, Версия - 20H2, Сборка 19042.572, Windows Feature Experience Pack 120.2212.31.0
+
+**Google Chrome** - Версия 86.0.4240.111
+
+**Версия Java**: openjdk version "11.0.9
